@@ -1,5 +1,5 @@
 # Test task to the company
-restaAPI proxy\requesting logic
+restAPI proxy\requesting logic
 ## Installation
 npm i in the main directory for BE
 cd ./front run: npm i for the FE directory
